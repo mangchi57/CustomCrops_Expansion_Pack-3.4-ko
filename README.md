@@ -25,6 +25,8 @@ Oraxen을 사용하는 경우 "/CustomCrops/contents/crops" 폴더에서 "_items
 
 압축을 해제 하지 않은 상태에서 적용하시는방법입니다.
 
+![Image](https://github.com/user-attachments/assets/d4af0424-116d-47de-a35e-a2c32bec0836)
+
 Fixed
 파일 재업로드
 
